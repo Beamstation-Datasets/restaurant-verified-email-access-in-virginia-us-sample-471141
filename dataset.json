@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Virginia, US",
+  "export_job_id": "8c49e885-6cc1-4074-a26e-c530e156c736",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 471141,
+  "location_name": "Virginia",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-virginia-us-sample-471141",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/471141/beamstation_471141_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 429,
+  "sample_sha256": "907ea3f3f63cc0be697f4be3299a5d5e540fefa2e1092b0fd80f755000280896",
+  "sample_size_bytes": 1684896,
+  "total_records": 4291,
+  "updated_at": "2026-04-08T02:59:47.525599+00:00"
+}
