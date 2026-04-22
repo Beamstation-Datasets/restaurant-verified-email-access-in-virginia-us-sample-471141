@@ -6,7 +6,7 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Virginia, US",
-  "export_job_id": "b0d19c00-a0ca-426c-9a9f-9d7f85420501",
+  "export_job_id": "c7836e59-02b6-448a-9f7f-3e75520d2b70",
   "github_org": "Beamstation-Datasets",
   "id_short": 471141,
   "location_name": "Virginia",
@@ -14,9 +14,9 @@
   "repo_name": "restaurant-verified-email-access-in-virginia-us-sample-471141",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/471141/beamstation_471141_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 420,
-  "sample_sha256": "c59ed903e2221d61e75523a5307223a1bf2bd9996b10320eb3bd22ffff81642b",
-  "sample_size_bytes": 1657104,
-  "total_records": 4200,
-  "updated_at": "2026-04-15T08:09:26.951893+00:00"
+  "sample_records": 277,
+  "sample_sha256": "0d1f3b1e5dfacb04d30a6e40ff7ff8118d165c846f8961170f0daf9569eaefe9",
+  "sample_size_bytes": 1109317,
+  "total_records": 2770,
+  "updated_at": "2026-04-22T15:02:03.059849+00:00"
 }
